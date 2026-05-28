@@ -7,7 +7,7 @@
   "requiresLicense": true,
   "fileName": "Financial+_v0.9.9.6.1_RUNTIME_ONLY.zip",
   "downloadUrl": "https://github.com/morenotrombone-tech/Financial-Plus-Release/releases/download/v0.9.9.6.1/Financial+_v0.9.9.6.1_RUNTIME_ONLY.zip",
-  "sha256": "ad6fa7aa55b535c3ff61dd7f5bbcfefccb461d5bac79e15706a830c27654c155",
+  "sha256": "16f479628765b64b223ba9a37e354d158ab5bddbcc62aeecbaddb43d272c4c90",
   "releaseNotes": [
     "Updater apply proof build.",
     "Verifies the fixed update helper can replace app files and preserve portable FinancialPlus data.",
