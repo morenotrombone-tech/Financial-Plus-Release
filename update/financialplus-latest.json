@@ -1,16 +1,16 @@
 {
   "product": "Financial+",
   "channel": "private-beta",
-  "latestVersion": "0.9.9.6.0",
-  "displayVersion": "v0.9.9.6.0",
-  "minimumVersion": "0.9.9.5.5",
+  "latestVersion": "0.9.9.6.1",
+  "displayVersion": "v0.9.9.6.1",
+  "minimumVersion": "0.9.9.5.6",
   "requiresLicense": true,
-  "fileName": "FinancialPlus_v0.9.9.6.0_RUNTIME_ONLY.zip",
+  "fileName": "Financial+_v0.9.9.6.1_RUNTIME_ONLY.zip",
   "downloadUrl": "https://github.com/morenotrombone-tech/Financial-Plus-Release/releases/download/v0.9.9.6.1/Financial+_v0.9.9.6.1_RUNTIME_ONLY.zip",
-  "sha256": "99795a0df72df0b5fc5d386d97bcd33942f9eb5e99c0dbf15ee3fc684127b224",
+  "sha256": "ad6fa7aa55b535c3ff61dd7f5bbcfefccb461d5bac79e15706a830c27654c155",
   "releaseNotes": [
-    "Updater proof build.",
-    "Used to verify Financial+ can detect, download, verify, and stage updates.",
+    "Updater apply proof build.",
+    "Verifies the fixed update helper can replace app files and preserve portable FinancialPlus data.",
     "Runtime-only package. No source code included."
   ]
 }
